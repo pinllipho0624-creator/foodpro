@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import Home from './Home.tsx';
+import Home from './Home';
 import About from './About';
 import Contact from './Contact';
 import Privacy from './Privacy';
